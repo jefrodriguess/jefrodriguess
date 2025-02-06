@@ -1,8 +1,8 @@
 ## Oi, eu sou Jeferson Rodrigues, mas pode me chamar de Jef 👋
 
-- 🔭 Atualmente tenho trabalhado em projetos Front-End
-- 🌱 Aprimorando meu Front-End e estudando Back-End
-- 📫 Contate-me pelo email jefersonsrodrigues@outlook.com
+- 🔭 Trabalhando em projetos Front-End
+- 🌱 Estudando e aprimorando Back-End
+- 📫 Contato pelo e-mail: jefersonsrodrigues@outlook.com
 - 😄 Pronomes: Ele/Dele
 
 ## Algumas das minhas Habilidades são:
