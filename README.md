@@ -20,13 +20,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div>
 
- ## Uma visão geral do meu Git:
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefrodriguess&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefrodriguess&layout=donut-vertical)](https://github.com/jefrodriguess/github-readme-stats)
-
-
   
 ## Essas são minhas redes sociais:
  
