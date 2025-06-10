@@ -5,6 +5,18 @@
 - 📫 Contato pelo e-mail: jefersonsrodrigues@outlook.com
 - 😄 Pronomes: Ele/Dele
 
+🎯 Em transição para a área de Tecnologia | Técnico em Informática (em formação) | Estudante de Engenharia de Software | 5 anos de experiência no setor público
+Atualmente cursando Técnico em Informática pelo Senac Campinas (conclusão prevista: junho/2025) e iniciando a graduação em Engenharia de Software pela Unicesumar. Estou em transição de carreira, trazendo comigo uma bagagem sólida de 5 anos de atuação no serviço público, com foco em rotinas administrativas e atendimento ao público.
+Essa vivência me proporcionou habilidades valiosas como boa comunicação, proatividade, empatia no atendimento e capacidade de adaptação — competências que considero fundamentais também no universo da tecnologia.
+Tenho facilidade para aprender novas ferramentas e gosto de entender a fundo aquilo que me proponho a fazer. Me destaco pela dedicação, curiosidade e desejo constante de evoluir profissionalmente.
+💻 Atualmente, estou me aprofundando em lógica de programação, estrutura de dados e desenvolvimento de software, com interesse especial em áreas como desenvolvimento web e software.
+📚 Formação complementar:
+Técnico em Química pelo Centro Paula Souza (não atuante na área, mas com base sólida em raciocínio lógico e análise técnica).
+
+
+✨ Curiosidades sobre mim:
+ Sou apaixonado por movimento! Nas horas vagas, pratico dança e academia. Acredito que movimento é vida — tanto no corpo quanto na mente.
+
 ## Algumas das minhas Habilidades são:
 
 <div>
