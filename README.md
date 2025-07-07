@@ -2,7 +2,7 @@
 
 🎯 Em transição para a área de **Tecnologia** | Técnico em Informática | Estudante de Engenharia de Software | 5 anos de experiência no setor público
 
-Atualmente, estou cursando **Técnico em Informática** pelo Senac Campinas (conclusão prevista: junho/2025) e iniciei a graduação em **Engenharia de Software** pela Unicesumar.  
+Finalizei recentemente um **Técnico em Informática** pelo Senac Campinas e iniciei a graduação em **Engenharia de Software** pela Unicesumar.  
 Estou em transição de carreira, trazendo comigo uma bagagem sólida de **5 anos de atuação no serviço público**, com foco em rotinas administrativas e atendimento ao público.
 
 Essa vivência me proporcionou habilidades valiosas como:
