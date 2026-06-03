@@ -1,67 +1,67 @@
-## Oi, eu sou Jeferson Rodrigues, mas pode me chamar de Jef 👋
+## Olá, eu sou Jeferson Rodrigues, mas pode me chamar de Jef 👋
 
-🎯 Em transição para a área de **Tecnologia** | Técnico em Informática | Estudante de Engenharia de Software | 5 anos de experiência no setor público
+💻 **Estagiário de Desenvolvimento de Software | Estudante de Engenharia de Software | Apaixonado por Tecnologia e Desenvolvimento Web**
 
-Finalizei recentemente um **Técnico em Informática** pelo Senac Campinas e iniciei a graduação em **Engenharia de Software** pela Unicesumar.  
-Estou em transição de carreira, trazendo comigo uma bagagem sólida de **5 anos de atuação no serviço público**, com foco em rotinas administrativas e atendimento ao público.
+Atualmente atuo como **Estagiário de Desenvolvimento**, participando da criação e evolução de soluções digitais, aplicando conhecimentos em desenvolvimento web, lógica de programação, bancos de dados e experiência do usuário.
 
-Essa vivência me proporcionou habilidades valiosas como:
-- Boa comunicação
-- Proatividade
-- Empatia no atendimento
-- Capacidade de adaptação
+Sou estudante de **Engenharia de Software** pela **Unicesumar** e formado como **Técnico em Informática pelo Senac Campinas**. Estou construindo minha carreira na área de tecnologia com foco em desenvolvimento de software e desenvolvimento web.
 
-💡 Acredito que essas competências também são fundamentais no universo da tecnologia.
+Antes de ingressar na área de tecnologia, atuei por mais de **5 anos no setor público**, experiência que fortaleceu habilidades que utilizo diariamente no desenvolvimento de soluções:
 
-Tenho facilidade para aprender novas ferramentas e gosto de entender a fundo aquilo que me proponho a fazer. Me destaco pela **dedicação, curiosidade e desejo constante de evoluir profissionalmente**.
+- Comunicação clara e objetiva
+- Trabalho em equipe
+- Resolução de problemas
+- Adaptabilidade
+- Organização e foco em resultados
+- Visão centrada no usuário
 
-💻 Atualmente, estou me aprofundando em:
-- Lógica de programação
-- Estrutura de dados
-- Desenvolvimento de software
+🚀 **Áreas de interesse:**
+- Desenvolvimento Front-End
+- Desenvolvimento Full Stack
+- Aplicações Web
+- UX/UI
+- Soluções Digitais para Serviços Públicos
 
-Com interesse especial em:
-- Desenvolvimento web (Front-End)
-- Desenvolvimento de software em geral
+📚 **Atualmente estudando e aprimorando conhecimentos em:**
+- Angular
+- JavaScript
+- TypeScript
+- Node.js
+- HTML5 e CSS3
+- SQL e Banco de Dados
+- Estruturas de Dados e Algoritmos
+- Arquitetura de Software
 
-📚 **Formação complementar:**
-- Técnico em Química pelo Centro Paula Souza (não atuante na área, mas com base sólida em raciocínio lógico e análise técnica)
+💡 Acredito que a tecnologia é uma ferramenta capaz de transformar processos e melhorar a vida das pessoas. Por isso, busco constantemente aprender novas tecnologias, desenvolver projetos e evoluir como profissional.
 
 ---
 
-✨ **Curiosidades sobre mim:**
-Sou apaixonado por movimento! Nas horas vagas, pratico **dança** e **academia**.  
-Acredito que **movimento é vida** — tanto no corpo quanto na mente.
+### 🎓 Formação
+
+- Engenharia de Software — Unicesumar *(em andamento)*
+- Técnico em Informática — Senac Campinas
+- Técnico em Química — Centro Paula Souza
 
 ---
 
-- 🔭 Trabalhando em projetos Front-End  
-- 🌱 Estudando e aprimorando habilidades em Back-End  
-- 📫 Entre em contato: [jefersonsrodrigues@outlook.com](mailto:jefersonsrodrigues@outlook.com)  
-- 😄 Pronomes: Ele/Dele
+### 🚀 Atualmente
 
+- 🔭 Desenvolvendo projetos com Angular, JavaScript, TypeScript e Node.js
+- 🌱 Aprimorando conhecimentos em Back-End, Banco de Dados e Arquitetura de Software
+- 💼 Atuação como Estagiário de Desenvolvimento
+- 🎯 Construindo soluções e projetos para meu portfólio
 
+---
 
-## Algumas das minhas Habilidades são:
+### ✨ Curiosidades
 
-<div>
- <img align="center" alt="JavaScript" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-</div>
+Nas horas vagas gosto de praticar **academia** e **dança**. Acredito que disciplina, evolução contínua e equilíbrio são fundamentais tanto na vida pessoal quanto na carreira.
 
-  
-## Essas são minhas redes sociais:
- 
-<div> 
-  <a href="https://www.linkedin.com/in/jefrodriguees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=inspire&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com/ojefrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:jefersonsrodrigues@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 📫 Contato
+
+- 📧 E-mail: **jefersonsrodrigues@outlook.com**
+- 💼 LinkedIn: **linkedin.com/in/jefrodriguees**
+- 📷 Instagram: **@ojefrodrigues**
+```
